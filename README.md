@@ -1,6 +1,6 @@
 # 🎵 DownloaderPy - Spotify Playlist Downloader
 
-DownloaderPy é uma aplicação desktop desenvolvida em Python que permite baixar músicas de playlists do Spotify utilizando o YouTube como fonte de áudio. A aplicação possui uma interface gráfica amigável construída com Kivy.
+SpotifyPlaylistDownloader é uma aplicação desktop desenvolvida em Python que permite baixar músicas de playlists do Spotify utilizando o YouTube como fonte de áudio. A aplicação possui uma interface gráfica amigável construída com Kivy.
 
 ## ✨ Funcionalidades
 
