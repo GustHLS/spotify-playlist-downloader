@@ -21,11 +21,6 @@ SpotifyPlaylistDownloader é uma aplicação desktop desenvolvida em Python que 
 
 ### 1. Clone o repositório ou baixe os arquivos
 
-```
-git clone https://github.com/seu-usuario/downloaderPy.git
-cd downloaderPy
-```
-
 ### 2. Instale as dependências
 
 ```
